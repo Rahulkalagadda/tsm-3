@@ -81,5 +81,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 - Improved mobile responsiveness and accessibility
 
 ---
+Deployment link - https://tsm-3.vercel.app/
 
 **Built with ❤️ for the Indian street food community.**
